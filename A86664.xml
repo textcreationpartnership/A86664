@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The horn of the he-goat broken: or An answer to a lying book called, The chasing of the young quaking harlot out of the citie. Published by a scorner of the truth, called Thomas Winterton. His deceit and ignorance laid open, his lies reproved, and the quæries answered, for the sake of the simple. / By a lover of righteousnesse, called, Richard Huberthorn.</title>
+            <author>Hubberthorn, Richard, 1628-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86664</idno>
+            <idno type="STC">Wing H3224</idno>
+            <idno type="STC">Thomason E883_2</idno>
+            <idno type="STC">ESTC R202543</idno>
+            <idno type="EEBO-CITATION">99862788</idno>
+            <idno type="PROQUEST">99862788</idno>
+            <idno type="VID">114964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114964)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E883[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The horn of the he-goat broken: or An answer to a lying book called, The chasing of the young quaking harlot out of the citie. Published by a scorner of the truth, called Thomas Winterton. His deceit and ignorance laid open, his lies reproved, and the quæries answered, for the sake of the simple. / By a lover of righteousnesse, called, Richard Huberthorn.</title>
+                  <author>Hubberthorn, Richard, 1628-1662.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the Black-spread-Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winterton, Thomas. --  Chasing the young quaking harlot out of the city --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114964:1" rendition="simple:additions"/>
+            <p>THE HORN OF THE He-goat broken: OR AN ANSWER to a lying Book called, <hi>The chaſing the young Quaking Harlot out of the Citie.</hi>
+            </p>
+            <p>Publiſhed by a ſcorner of the Truth, called <hi>Thomas Winterton.</hi>
+            </p>
+            <p>His Deceit and Ignorance laid open, his lies reproved, and the Quaeries anſwered, for the ſake of the ſimple.</p>
+            <p>By a lover of Righteouſneſſe, called, <hi>Richard Huberthorn.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert</hi> at the Black-ſpread-Eagle at the Weſt end of Pauls, 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114964:2"/>
+            <pb facs="tcp:114964:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE time is come and coming, where<g ref="char:EOLhyphen"/>in the God of Heaven is ſetting up his Kingdome, which is not carnall but ſpirituall, and eſtabliſhing his Throne in righteouſneſſe, and the day is appeared and appearing, where<g ref="char:EOLhyphen"/>in all that oppoſe him ſhall be aſha<g ref="char:EOLhyphen"/>med. Now when he is declaring his righteouſneſſe and his ſaving health in the Nations, and now the Man of Sin and Antichriſt is diſcovered, and the hidden things is brought to light: and now when his enemies cannot hide themſelves any longer, but their ſhame muſt appeare who are covered, and not with the ſpirit of the Lord. Therefore I ſay, becauſe the Lord in his mercy hath cauſed his marvellous light to ariſe in the earth, the Prince of darkneſſe is angry, and all his ſubjects, be<g ref="char:EOLhyphen"/>cauſe their judgement drawes nigh, and their ſtrength muſt be thrown down: And as the Lord hath made ma<g ref="char:EOLhyphen"/>nifeſt his light more than in ſome generations paſt: Therefore the rage of the old Dragon is greater, and his Angels and Inſtruments who are to be taken with the Beaſt and the falſe Prophet, and ſhut up in the pit, and ſealed in utter darkneſſe for ever, and therefore he is come forth in his power and his ſtrength, and all his ſubjects every one with ſuch weapons as they have, ſome with clubs, ſome
+<pb facs="tcp:114964:3"/>
+with priſons, whippings, reproaches and mockings: ſome with their corrupt ſenſuall wiſdome, to oppoſe ſome with lies and ſlanders; but all is at work to defend their Maſters Kingdome, and would not have the man to rule (Chriſt Je<g ref="char:EOLhyphen"/>ſus) who will judge all their unrighteouſneſs, and bring down the Beaſt out of his ſeat: amongſt whom thou mayſt ſee <hi>Tho. Winterton</hi> ſitting neer his Maſter, unto whom he is fallen upon the throne of unrighteouſneſs. In a former Book he denied any thing above nature to guide man; and in this his laſt book would judge of us by his evill conſequence, and he hath denied that he hath any thing that is infallible; but he ſaith he judges by his imaginary faculty, and he judges us in the 15. page to be Harlots, becauſe we ſpeak plain language, as <hi>Thou,</hi> and ſo hath made all the holy men of God, Harlots and adulterers, who uſed the ſame; and ſo blaſphemouſly againſt the ſpirit of truth hath ſet him ſelf, and makes lies his refuge, as the reſt of the Dragons Army do: and therefore theſe few things mind, wherein his ſhame is laid open, and his lies denied, and his ſenſuall Quaeries anſwered, which roſe from his imaginary faculty. And ſo take heed Reader thou come not in the way of the liers, nor lend thy ear to the wicked, but mind the light of Chriſt Je<g ref="char:EOLhyphen"/>ſus, which will ſhew thee men of corrupt minds and corrupt things, and ſeeing in the ſingle eye. In vain doth the Fow<g ref="char:EOLhyphen"/>ler ſpread his net in the ſight of the Bird. Try all things by meaſure of the Spirit, hold that which is good. A friend to righteouſneſs I am, and a lover of thy ſoul.</p>
+            <closer>
+               <signed>R. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:114964:3"/>
+            <head>An Anſwer to <hi>Tho. Winterton</hi> his Book, which he affirmeth to be a Chaſing of the young quaking Harlot out of the Citie; which if thoſe that he writes againſt be not by it chaſed out of the Citie, then all may take him to be a falſe Prophet, which reads what he hath affirmed by his book to be brought to paſſe.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N thy former Book thou haſt been proved to deny the Father, Son, and Spirit; and denied that there is any thing in thee above nature: And in this book alſo thou haſt made it mani<g ref="char:EOLhyphen"/>feſt to be guided onely by the naturall ſenſes, and ſo to be ſenſual, having not the Spirit: and ſo in this thy ſenſuall wiſdom without the Spi<g ref="char:EOLhyphen"/>rit of God, thou goeſt about to prove us to be the Harlot, and to be upon two dangerous deſignes; the firſt by our Doctrine, the ſecond by the Sword Firſt as from our Doctrine, to prove it, thou bringeſt four particulars, as firſt, that we ſay;</p>
+            <p>
+               <hi>That the peoples ſenſes, underſtanding and reaſon, were carnall, fleſhly and unto condemnation.</hi>
+            </p>
+            <p>To which I anſwer, All people which hate the light of Chriſt as thou doſt, and ſet up reaſon and imagination to be their guide, &amp; knows nothing above nature in them, their ſenſes are reprobate, and their underſtandings darkned, and their reaſon carnall and fleſhly, which is for condemnation with the light: And to thoſe thar were senſuall, whoſe reaſon was carnall and fleſhly, did the Apoſtles miniſter condemnation, as thou may read in the Scrip<g ref="char:EOLhyphen"/>tures, and yet that proved them not to be harlots; but their deſign in their doctrine was, to exalt Chriſt, which is the true light, and
+<pb n="2" facs="tcp:114964:4"/>
+lightneth every one that cometh into the world, and our deſign is the ſame, againſt which no inchantmens, lies, nor falſe accuſati<g ref="char:EOLhyphen"/>ons from Prieſts nor Atheiſts can prevail.</p>
+            <p>The ſecond particular wherein thou would prove us to be the Harlot, and our deſign to be dongerous is, becauſe we ſay, That <hi>Chriſt lightneth every one that cometh into the world.</hi> And to this thou thy ſelf in the fifth page of thy Book confeſſeſt to be a truth clear from Scripture; and that this light diſcovers to every one (that will) both good and evil: and in the fourth page thou calleſt this particular, <hi>That Chriſt hath lightned every one that comes into the World,</hi> a pure truth; and yet thou would make the people believe that we were the Harlot for holding forth the pure truth; and ſo thy own breath as fire ſhall devoure thee. And hereby the pure truth of God which we hold forth, is cleared, and thou broken to pieces by the ſtone upon which thou falleſt. But all thy Atheiſme, and all the Prieſts doctrine cannot make the people ſo blind as to believe, that holding forth the pure truth of God, will make us to be an Harlot, or our deſign dangerous: and here thou haſt manifeſted thy ſpirit, that all may ſee what we are ac<g ref="char:EOLhyphen"/>cuſed for, &amp; by whom, being accuſed to be harlots, hereticks, de<g ref="char:EOLhyphen"/>ceivers and deluders, blaſphemers and dangerous, becauſe we hold forth the pure truth of God according to the Scriptures; yea ſo far hath God turned the wiſe backward, and made their wiſdome fooliſhneſſe, that even our enemies and accuſers are for<g ref="char:EOLhyphen"/>ced to confeſſe, that it is holding forth the pure truth according to the Scripture, for which we are accuſed, as <hi>T. Winterton</hi> hath done, to his own ſhame and confuſion.</p>
+            <p>The third particular from which thou would prove us to be the harlot, and our deſignes dangerous, are in theſe words, which thou ſayſt thou gathered from our Doctrine.</p>
+            <p>
+               <hi>That who ſo believes in this light, it is as a fire and a hammer to break and couſume all carnall luſt, and ſleſhly and ſelfiſh deſires whatſoever, that now they cannot ſin.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here thou haſt gathered that which we have not ſtrewen, and in thy imaginations thou haſt gathered thy evil thoughts, conceiving of that which never was ſpoken from us as thou ſpakeſt it, <hi>and now they cannot ſin:</hi> But this I ſay, that he that believes in the light, and follows Chriſt who is the light, ſhall have the light of life, and ſhall never come into condemnation,
+<pb n="3" facs="tcp:114964:4"/>
+if he abide in the light which cometh from Chriſt, the Word which is as a fire and a hammer, which where it dwels conſumes all carnall and fleſhly luſts. And hereby it is eaſily known who have the word from them, who have but the letter. And where<g ref="char:EOLhyphen"/>as thou ſayeſt that light is but to diſcover, and not active at all; here thou haſt ſhewed thy ſelf to be ignorant both of the light and of the Scripture, which ſaith the light of Iſrael ſhall be for a fire, and it ſhall burn up and devoure his thorns and bryers in one day. And this light was witneſſed to burn and conſume that which is contrary to it: and whereas thou ſayeſt, that if we will be purged, we muſt ſeek ſomething elſe, for light will not doe it. I anſwer, God is light, as in 1 <hi>John</hi> 1. 5. and Chriſt is the light, <hi>John</hi> 8. 12. and if God and Chriſt who is the light, wil not do it, then what elſe muſt people ſeek unto to be purged? And again thou ſayſt, thou denieſt that light or any thing within man or with<g ref="char:EOLhyphen"/>out man, doth or ever did ſo cleanſe, purifie and make perfect the ſouls of men: and then thou addeſt, to make up thy dark ſaying, as that it were ſafe &amp; convenient to allow them no other guide or director but the dictates of their own light &amp; ſpirit within them: As for the later, thou mayſt take it as thine own, for we deny all thoſe which walks after their own, whether thou call it light or dictates, for that which is their own is darkneſſe and not light; but thoſe that follow the light of Chriſt, and deny that which is their own for his ſake we own. And as for thy former, to de<g ref="char:EOLhyphen"/>ny that light, or any thing within or without man, doth or ever did cleanſe or purifie and make perfect the ſons of men; let all here take notice of thy Atheiſme, who hath denied Chriſt and his light either within or without men to do it.</p>
+            <p>The fourth particular by which thou would prove us to be the Harlot, and our deſign dangerous, is in theſe words, <hi>That now the Scripture is no more a guide for us to walk by, nor nothing with<g ref="char:EOLhyphen"/>out them, but the light within them, and he that ſeeks after any other guide but that within him, is in the fleſh ſtill.</hi> Which words are thy own, and was not ſo ſpoken by any of us.</p>
+            <p>But to thee. I ſay, that the Scripture which did foreſee that which we now do ſee, we own to be one with the light which was before the letter, and to be our guide in the way of truth: and this guide is within us, but by the Scripture letter without thee; thou neither ſees nor foreſees the things which belong to
+<pb n="4" facs="tcp:114964:5"/>
+eternall life, which if ever any come to ſee, it muſt be by the light of Chriſt within them, and all who own this light, and with it is guided, cannot deny the Scriptures which was ſpoken ſorth from the light within.</p>
+            <p>Again, thou wouldſt accuſe <hi>E. B.</hi> to be changing in his doctrine from one thing to another, becauſe he ſaid, that all ſtrife and contention, &amp; revenge, was of the fleſh, and of the Divel, and to be condemned with the light: which teſtimony is alſo true, and this teſtimony can we never deny nor change from. And whereas thou bringeſt his ſalutation to contradict that, where he ſaith, <hi>Make war in righteouſneſs againſt Gog and Magog, and prepare for the Lord.</hi> Herein thou haſt manifeſted thy blindneſs, which cannot ſee the war which ſtands in righteouſneſs, from that which proceds from the luſt: but as thou haſt imagined carnally of all the things of God, which was ſpoken from the ſame ſpirit: and ſo as well may thou make lies, and pervert our words, as thou doſt the Scriptures: and now having publiſhed many lies againſt us, thou makeſt a profeſſion of thy own condition, that all people may ſee from what thou judgeſt us to be in deluſion, thy words are theſe: <hi>Now foraſmuch as I have not an infallible ſpirit, infallibly to interpret what may be intended in theſe re<g ref="char:EOLhyphen"/>vengefull expoſitions, notwithſtanding my imaginary faculty might find ground enough of bad conſequence in them, yet I ſhall leave them to better judgements,</hi> as in the ninth page of thy book.</p>
+            <p>
+               <hi>Anſ.</hi> Thy now leaving of us to better judgments, or to them that have the ſpirit of truth, will not excuſe thee for what thou haſt done already, that hath had nothing to judge us by all this while, (that thou haſt ſpoken and written againſt us) but evill conſe<g ref="char:EOLhyphen"/>quences out of thy imaginary faculty. How art thou fallen from what thou ſeemedſt to pretend againſt us in thy books; as if thou hadſt known that we had held forth falſe doctrine, or inten<g ref="char:EOLhyphen"/>ded a carnall war, becauſe we ſpeak of a war <hi>in righteouſneſs.</hi> But now thou ſpeakeſt plainly, that thou haſt not the ſpirit of Truth, truly to interpret what we intend in our expreſſions; but leaves it to better judgements: Here thou haſt manifeſted thy ſelf a ſooliſh builder, it had been leſſe ſhame for thee if thou hadſt not begun, then having begun in thy imaginary faculties and bad conſequences, and now confeſſeſt thou wanteſt the ſpirit of Truth; here thou haſt proved thy ſelfe to be the Har<g ref="char:EOLhyphen"/>lot,
+<pb n="5" facs="tcp:114964:5"/>
+and fit to be chaſed out of the Citie, who doth raiſe ſtrife, ac<g ref="char:EOLhyphen"/>cuſations and lies againſt the truth of God from thy imaginary faculties and bad conſequence, being without the ſpirit of truth. Again, in thy anſwer to <hi>E. B.</hi> ſalutation, thou boaſts from thy imaginary faculty, and ſayſt in thy 11. page, <hi>O thou proud, pre<g ref="char:EOLhyphen"/>ſumptuous, ambitious Quaker, whence is thy originall? thou art not yet ſeven years old, and art thou the onely people of the whole creation, in the favour of the Almighty; therefore wo be to them that live to ſee thee proſperous to a manly age.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Our original is before all ages, or the number of years, and before any imaginary faculties (which is thy rule) was, and this in time being brought forth, which before all time was, they who are found in their imaginary faculties, as thou art, the woe comes upon them; and thy woe and torment will increaſe, as the truth increaſeth; as it was from Chriſt to the Jewes, Scribes and Phariſies, in the dayes of his fleſh, who queſtioned the truth of his words from the youngneſſe of his years, as thou doſt his truth now, having nothing to judge with but thy imaginary fa<g ref="char:EOLhyphen"/>culties, having not the infallible ſpirit, and yet thou goes on accu<g ref="char:EOLhyphen"/>ſing us, that we deny all matter and form of worſhip. I ſay, where the ſpirit of truth is, which thou ſayſt thou haſt not, there is both the matter &amp; form of the true worſhip owned, &amp; not denied; which ſpirit we have, and know both the matter and form: but in thy imaginary faculties there is neither. And whereas thou ſayeſt, that we deny actuall obedience, and the authority of the Scriptures; that is falſe: for by that authority that gave forth the Scriptures, are we daily in actuall obedience to the Lord. A<g ref="char:EOLhyphen"/>gain, thou bringeſt ſeverall particulars, which thou calleſt the markes of the Harlot by which ſhe may be known: as firſt, in her language, which is to ſpeak the word <hi>Thou</hi> to a particular perſon in ſtead of <hi>You,</hi> thou wouldſt make the language of the Harlot; then all the Prophets, Chriſt and the Apoſtles, did ſpeak the lan<g ref="char:EOLhyphen"/>guage of the Harlot; and then the Scripture is tranſlated in the language of the Harlot, which doth not uſe the word <hi>You</hi> to any particular perſon. But here thou haſt made it more manifeſt to be without the ſpirit, and to ſpeak from thy imaginary fa<g ref="char:EOLhyphen"/>culties.</p>
+            <p>
+               <pb n="6" facs="tcp:114964:6"/>The ſecond mark is her weapons, which is, ſaying, that peo<g ref="char:EOLhyphen"/>ple is carnall, and in the fleſh, and that they know not the light of Chriſt, but ſtumble at the ſtumbling-ſtone, and are in the curſed ground, and that they cannot believe though the truth be decla<g ref="char:EOLhyphen"/>red unto them, they having not the ſpirit, but are in their ſins, And this thou ſayeſt is the weapon of the Harlot.</p>
+            <p>
+               <hi>Anſ.</hi> Now theſe words were all uſed by the Miniſters of the moſt high God againſt the Harlot, as thou art manifeſt to be, who ſtumbles at the ſtumbling-ſtone as it is written, <hi>Rom. 9. 32. John</hi> 11. 9, 10. Here thou may ſee they which were no harlots told them they ſtumbled at the ſtumbling-ſtone, and told ſome that they were carnall, 1 <hi>Cor.</hi> 3. 3. and the Prophet told them they had eyes and could not ſee, ears and could not hear, and hearts and could not underſtand, <hi>Iſai.</hi> 44. 18. and this was no mark of a Harlot in the Prophet; but they whom he ſaid was ſo, was harlotted from the Lord, and Chriſt told them, that they were yet in their ſins, and told them they ſhould die in their ſins, <hi>John</hi> 8. 24. if they believed not, and told them they were of their father the Divell, and had not known God, but was from be<g ref="char:EOLhyphen"/>neath, <hi>John</hi> 8. And theſe things in Chriſt was no mark of a har<g ref="char:EOLhyphen"/>lot, but they were harlots whom he ſo judged, and ſo thy marks diſprove thee.</p>
+            <p>The third mark, Her preſumption, attempting to ſhare with the Almighty: And this which thou calls preſumption, is to be guided by God; and hereby thou doth accuſe all the Saints of God, for they all did ſo far preſume, as to be guided by God and by his Spirit, and to ſay that all the chldren of the Lord ſhould be taught of the Lord, and this was no preſumption, nor no mark of the harlot; and they ſaid, as he is ſo are we in this preſent world: and this was no preſumption, nor the mark of the har<g ref="char:EOLhyphen"/>lot, but humility; if thou wert not blind thou would ſee it.</p>
+            <p>The fourth mark is, pretending to own the Scriptures, and ſpeak much of Religion, and yet hath nothing in matter, form or eſſence.</p>
+            <p>
+               <hi>Anſ.</hi> This hath marked out thy condition, that pretends to own the Scriptures, and proſeſſeth them, and hath not that Spi<g ref="char:EOLhyphen"/>rit which gave them forth, being guided by thy imaginary facul<g ref="char:EOLhyphen"/>ties,
+<pb n="7" facs="tcp:114964:6"/>
+and ſo without the power and effect of that which thou profeſſeth: but we by that ſpirit which gave them forth, do them profeſſe; and have the form, power, and effect, of what we doe profeſſe; and ſo the mark of the harlot returns up<g ref="char:EOLhyphen"/>on thy ſelf, which in to preſume without the ſpirit.</p>
+            <p>The fifth mark, her attendance; the ignorant and the lewd.</p>
+            <p>
+               <hi>Anſw.</hi> If this be the mark of the Harlot, try thy ſelf; for who is more ignorant than he that wants the infallible ſpirit, as thou confeſſeth thou doſt. For this mark of the harlot thou clears us from in the ſixth page of thy book, who there accuſeth us of ſubtilty: and in the 16 page, of ignorance; and ſo thou multiplies thy confuſion and ignorance And for lewdneſſe, thou may own the guilt of that thy ſelf: for if thou wert not both lewd &amp; mad in thy divinations; thou would not have ſo falſly accuſed thoſe that have the ſpirit of God, confeſſing thy ſelf not to have it; but that it is that thy folly may more ſpeedily be made manifeſt unto all men, that the Scripture upon thee may be fulfilled.</p>
+            <p>The ſixth mark, her kindred, and that is the Ranters, which thou ſayſt is the mark of the Harlot.</p>
+            <p>Herein thou haſt numbred thy ſelf, thy own teſtimony be<g ref="char:EOLhyphen"/>ing a witneſſe to it, and thy guide which is thy naturall ſenſes, and corrupt reaſon, knowing neither light nor ſpirit of Chriſt within, and therefore no reſtraint thou knows from thy di<g ref="char:EOLhyphen"/>vers luſts, but both the Ranters and thou in your ſenſuall liber<g ref="char:EOLhyphen"/>ty is found, and by us you both are denied; for from that kin<g ref="char:EOLhyphen"/>dred we are redeemed, and from all harlots marks.</p>
+            <p>The ſeventh mark is, ſhe is the youngeſt of all Harlots, little above five years old.</p>
+            <p>
+               <hi>Anſw.</hi> If thou would prove us to be the Harlot from the youngneſs of years, as little above five, then thou muſt deny that which thou haſt aſſerted againſt us in the 13 page; for there thou would prove us to be falſe Prophets from thoſe fruits that Chriſt ſpoke of, <hi>Matth</hi> 7. 15. And if thou prove any thing againſt us from that in <hi>Matth</hi> 7, then it is not from the youngneſs of years; for that is above five yeares ſince: ſo theſe confuſions I return unto thee again, that thou may ſee that blindneſſe and confuſion is the ſign of the harlot.</p>
+            <div type="part">
+               <pb n="8" facs="tcp:114964:7"/>
+               <head>Now as in anſwer to thy Quaeries.</head>
+               <p>Quaerie 1. <hi>VVHether if it be not lawful to preſuppoſe things that are not, to find out the truth of things that are? and if ſo then,</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> It is not lawfull for thee to intrude into things which thou haſt not ſeen, vainly puffed up in thy fleſhly mind. Thou that goes into things that are not, to find out the truth of things that are, goes from God, the truth that is, into a lie, and thy pre<g ref="char:EOLhyphen"/>ſuppoſing things there, is not lawfull, neither canſt thou find ought there; for nought brings forth its like, being gone from God that is.</p>
+               <p>2. <hi>Whether there had been any need of Chriſts coming in the fleſh, if</hi> Adam <hi>had ſtood in his created eſtate?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Chriſts coming in the fleſh is that everlaſting Cove<g ref="char:EOLhyphen"/>vant in which the Creation ſtands, and in wbich <hi>Adam</hi> had his created eſtate, and ſo there was need of that which gave <hi>Adam</hi> his being and recovery.</p>
+               <p>3<hi rend="sup">d</hi> and 4<hi rend="sup">th</hi> 
+                  <hi>Whether Chriſt reſtored to believers any more than</hi> Adam <hi>loſt? And whether there be any ground to believe that any in this life hath more communion with God, or are more pure or perfect than</hi> Adam <hi>was in Paradiſe?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Art thou got above the Innocencie in thy imaginations, and haſt the ground of thy belief to ſeek? Firſt come down out of thy imaginations, that thou mayes feel the ground of Faith; till then thou art no believer, and thereby be led up in<g ref="char:EOLhyphen"/>to a perſect ſtate, to have communion with God in Paradiſe, till then thou art in that which <hi>Adam</hi> loſt, and cannot underſtand an eſtate above, nor believe it though it be told thee, that which now enquires muſt loſe its life ere thou come into Paradiſe. Gods ſecrets muſt not feed Serpents.</p>
+               <p>5. <hi>Whether</hi> Adam <hi>in Paradiſe did not partake of that light with which Chriſt lightneth every one that cometh into the world?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> The life of <hi>Adam</hi> in Paradiſe is the ſame that is the light of the word wherewith he lightneth every one that com<g ref="char:EOLhyphen"/>meth
+<pb n="9" facs="tcp:114964:7"/>
+into the world, and of this <hi>Adam</hi> did partake in Paradiſe, which gave him light and underſtanding; which when he went into the ſelfiſh knowledge, he became bruitiſh, and this a witneſſe againſt him.</p>
+               <p>6. <hi>Whether this light of Chriſt, and all other lights (within man) if any there be, are not ſeated in the underſtanding and mind? and whether all mens ſureſt light is not conveyed through the ſenſes to the underſtanding? and whether this will not more clearly appear, if conſidered, that the ſtopping of the current of the ſenſes, the underſtanding becometh totally dark as unto certainties, it having nothing there to nouriſh it but imagi<g ref="char:EOLhyphen"/>nations?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> In this thou ſhewes thy confuſion with thy many lights, but haſt loſt the knowledge of the true light, and ſo ut<g ref="char:EOLhyphen"/>ters thy darkineſs. Firſt asks if the light be not ſeated in the un<g ref="char:EOLhyphen"/>derſtanding, and then asks if it be not conveyed through the ſenſes to the underſtanding; but the ſureſt light is conveyed by faith thereof born in the underſtanding and not by thy ſenſe, and to thy wits end that is carnall muſt thou come if this thou learn, for the myſtery is held in a pure conſcience, and not in thy ſenſuall underſtanding; and who knowes this, hath their underſtanding enlightned by faith, and not by the current of the naturall ſenſes.</p>
+               <p>7. and 8. <hi>Whether it argueth not darkneſſe in the underſtan<g ref="char:EOLhyphen"/>ding to determine any thing reall or certain, which was not con<g ref="char:EOLhyphen"/>veyed by the ſenſes to the underſtanding; whether for want of this conſideration, many hath not been poſſeſſed with as ſtrong a confidence of a certainty, as all their powers both of ſoul and bo<g ref="char:EOLhyphen"/>dy could procure, yea to the laying down of their lives, and yet a meer imagination.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> To determine any thing before the Lord, argues dark<g ref="char:EOLhyphen"/>neſſe in the underſtanding, but what he reveals in the ſpirit of faith, and leads into by his light, and not by the ſenſuall un<g ref="char:EOLhyphen"/>derſtanding; and for want of this conſideration have many been poſſeſſed with a ſtrong confidence of a certainty, and not having found their ends therein, have turned back again into deceit, ready to conclude there is no God, becauſe he would not anſwer their imaginations, who determined things in their
+<pb n="10" facs="tcp:114964:8"/>
+own wills before the guiding of his ſpirit; and ſee if hereof thou be not guilty.</p>
+               <p>9 <hi>Whether</hi> John Lilburn <hi>was not as confident that God own<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d him in his Religion oppoſing the powers of this Nation, as</hi> Saul <hi>was in his deſigne to Damaſcus? and whether</hi> Sauls <hi>con<g ref="char:EOLhyphen"/>verſion to a Chriſtian, and</hi> John Lilburns <hi>reſolving to a Qua<g ref="char:EOLhyphen"/>ker, be upon one and the ſame ground?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> That <hi>Jo. Lilburn</hi> was confident in his Religion, is plain, elſe had he not ſo long been deceived, and that God owned him in oppoſing many of the unjuſt powers of the Na<g ref="char:EOLhyphen"/>tion, is as plain, elſe had not he lived to have been convert<g ref="char:EOLhyphen"/>ed, and that the ground thereof, is the ſame wherewith <hi>Paul</hi> was converted, is as evident as the reſt, to them that are in the light, and out of the immaginations; and your envy to him ſince he owned the truth is no ſmall teſtimony of it, and ſo all things teſtifying together, the tree will be known by its fruits, to them that are not blind.</p>
+               <p>10. <hi>Whether God did not convey this new light or diſpenſa<g ref="char:EOLhyphen"/>tion to</hi> Sauls <hi>und<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rstanding through his ſenſes<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, in that it is ſaid he heard and ſaw, as a ſure ground to build his faith upon, and alſo whether he did not give him power and authority by ſignes and wonders, to convey to the underſtanding of thoſe to whom he mas ſent to convert, a ſure ground of faith alſo.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Here thou haſt manifeſted that thou art blind and in confuſion; for the ground of faith is but one in <hi>Paul</hi> and thoſe that were converted, and this ground of faith is not of Man, nor conveyed from one Man to another, but it is the gift of God, and Chriſt is the author of it. In thy Quaerie thou art ſpeaking of the light in which he heard and ſaw, being the ground of <hi>Pauls</hi> faith, and the ſignes and wonders wrought by <hi>Paul,</hi> being a ſure ground to convey faith to the people: if thou wert not blind thou would ſee, that in <hi>Paul</hi> and the People the ground of faith is but one; and they that believed becauſe of the Miracles, their faith as thine doth, ſtands in that which is changeable, and is not from the true ground: but thoſe which <hi>Paul</hi> preached unto, he told them that the Word of Faith was within them: the word which he preached, and the light was in them, and ſo he was to turn them, to the light
+<pb n="11" facs="tcp:114964:8"/>
+and to the word which was within them: And whereas thou asks, whether it was not conveyed through the ſenſes to the underſtanding, firſt learn to know where it is, and what it doth enlighten in thee, and then thou wilt know what it is convey<g ref="char:EOLhyphen"/>ed through, for as yet in thee thy ſenſes is ignorant of it, though it ſhine in darkneſs.</p>
+               <p>11. <hi>Whether if</hi> Jo. Lilburne <hi>have receaved the ſame ground of faith, ſo conveyed to his underſtanding immediately from God, as</hi> Saul <hi>had, or by ſome other whom God hath endued with power and authority, to convey a ground of faith as</hi> Paul <hi>did, then far be it from me for blaming of</hi> J. Lilburne <hi>for being a</hi> Quaker: <hi>otherwiſe, whether if he have not receaved the ground of faith aforeſaid, whether it be not eaſie to diſcern that</hi> Jo. Lilburnes <hi>Reſurrection is but a mear immagination or Qua<g ref="char:EOLhyphen"/>king Deluſion.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Faith is the gift of God, and not the gift of <hi>Paul,</hi> and herein thou art blind, and Chriſt ſaith believe in the light, while ye have the light; but he did not bid them believe in that which was of Man, nor conveyed by Men to one another: yet thou confeſſeth that it was conveyed to <hi>Paul</hi> immediately from God: Therefore ſeeing thou makes a difference, ſhew who did ever receave faith, or the ground of it, and not from God: and what was the ground of <hi>Abrahams</hi> faith and <hi>E<g ref="char:EOLhyphen"/>nochs,</hi> before the Scripture letter was written, but the ground of <hi>Jo. Lilburns</hi> faith is immediately from God as <hi>Pauls</hi> was, and therfore thou may ceaſe blaming of him for his being turn<g ref="char:EOLhyphen"/>ed to the faith.</p>
+               <p>12. <hi>Whether it be not eaſie to find out whether the Quakers doctrine be a diſpenſation of God, or a diſpenſation of mans wil? whether if it be of God, he will not take the ſame care for the de<g ref="char:EOLhyphen"/>vulging of it as he did of his former diſpenſations? that is, by ſuch evidences as no falfe Miniſter could procure: as when he commanded his Apoſtles to preach to the world, and to baptize them that believed, and to teach them to obſerve all things, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Although our Doctrine be of God, yet to thee and all in that nature, it is not eaſie to know, nor find to be ſo, for none knowes our Doctrine, wherher it be of God, but he that doth the will of our Father, and walk in his obedience,
+<pb n="12" facs="tcp:114964:9"/>
+and it is manifeſt that thou yet hates the way whereby our Do<g ref="char:EOLhyphen"/>ctrine is known, for thou having not the ſpirit of truth, how art thou like to know that Doctrine which is of God, from im<g ref="char:EOLhyphen"/>maginations, that which thou tries withall being thy immagi<g ref="char:EOLhyphen"/>nary faculty, but that the Lord takes the ſame care for his Mi<g ref="char:EOLhyphen"/>niſters now as ever he did, is manifeſt even by ſuch evidences as no falſe Miniſter can produce; for never any of the falſe Miniſters which the Lord did not ſend, did turn any from their iniquity, nor from darkneſs to light, nor from the power of Satan unto God, which now many do witneſs from the Mi<g ref="char:EOLhyphen"/>niſtery which God hath now raiſed up in this age; which is the torment of the falſe Prophet, for if it had not been evi<g ref="char:EOLhyphen"/>denced in power and by the ſpirit of the Lord, to be contrary to the falſe Doctrine, eſpecially in turning people from the wic<g ref="char:EOLhyphen"/>kedneſs which your Doctrine keeps them in, then it might have found favour amongſt you, and would not ſo much have been diſpiſed; but to us it is an evident token of ſalvation, and that from God, though to you of perdition.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
